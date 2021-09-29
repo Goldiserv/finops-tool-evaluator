@@ -24,6 +24,7 @@ The 14 assessment domains include:
 - Cloud value management
 - Support and value added services
 - Other features and attributes
+
 Within these domains, there are over 350 sub-dimensions/assessment considerations.
 
 ### Where You Can Find Us
